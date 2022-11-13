@@ -136,7 +136,7 @@ void writeEntry(Inventory part, ofstream& fout)
 		<< endl << endl;
 }
 /*
-* CONSOLE OUTPUT
+* CONSOLE OUTPUT EXAMPLE
 * Inventory Parts Structures Program
 * By Forrest Moulin
 *
@@ -181,7 +181,7 @@ void writeEntry(Inventory part, ofstream& fout)
 */
 
 /*
-* OUTPUT.TXT FILE
+* OUTPUT.TXT FILE EXAMPLE
 * Inventory Parts Structures Program
 * By Forrest Moulin
 *
