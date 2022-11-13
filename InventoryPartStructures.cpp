@@ -55,7 +55,7 @@ int main()
 	cout << fixed << setprecision(2) << TITLE << endl
 		<< AUTHOR_LINE << endl << endl
 		<< "Please enter the part number, name, class,"
-		<< endl << "inventory quantity, and unity cost"
+		<< endl << "inventory quantity, and unit cost"
 		<< endl << "(separated by spaces)." << endl << endl;
 
 	fout << fixed << setprecision(2)<< TITLE 
@@ -141,7 +141,7 @@ void writeEntry(Inventory part, ofstream& fout)
 * By Forrest Moulin
 *
 * Please enter the part number, name, class,
-* inventory quantity, and unity cost
+* inventory quantity, and unit cost
 * (separated by spaces).
 *
 * 1234 Hammer A 10 5.50
